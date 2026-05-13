@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/2d9e0304-a0db-4eda-8b6b-18f137c12341
 # xknock:   
 1st/3rd door knocking for left or right hand   
 
-** KEYS **   
+**KEYS**   
 <ins>knockl:</ins> *start/stop*    
 <ins>knockr:</ins> *start/stop*    
 <ins>SoundGen:</ins> *left/right*    
@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/2d9e0304-a0db-4eda-8b6b-18f137c12341
 # xmissdodge:   
 3rd Person animations for dodging missed attacks   
 
-** KEYS **   
+**KEYS**   
 <ins>missdr:</ins> *stop/start*   
 <ins>missdl:</ins> *stop/start*,   
 <ins>missdfwd:</ins> *stop/start*,   
