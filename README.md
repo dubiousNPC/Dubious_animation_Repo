@@ -7,7 +7,7 @@
 # xdisarm:   
 1st/3rd 1-second disarmed reaction. 3 variants
 
-**KEYS**   
+**KEYS**    
 <ins>disarm1:</ins> *stop/start*   
 <ins>disarm2:</ins> *stop/start*   
 <ins>disarm3:</ins> *stop/start*   
@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/2d9e0304-a0db-4eda-8b6b-18f137c12341
 # xknock:   
 1st/3rd door knocking for left or right hand   
 
-**KEYS**   
+**KEYS**    
 <ins>knockl:</ins> *start/stop*    
 <ins>knockr:</ins> *start/stop*    
 <ins>SoundGen:</ins> *left/right*    
@@ -45,10 +45,10 @@ https://github.com/user-attachments/assets/2d9e0304-a0db-4eda-8b6b-18f137c12341
 https://github.com/user-attachments/assets/b6237fde-258c-4f10-8c6a-d3bd946ecc2d
 
 
-# xhookshot:
+# xhookshot:   
 1st/3rd aim and firing arm-mounted grapple hook
 
-**KEYS**
+**KEYS**   
 <ins>hookaim:</ins> *start/loop start/loop stop/stop*    
 <ins>hookgo:</ins> *start/loop start/loop stop/stop*   
 <ins>hookhang:</ins> *start/stop*   
