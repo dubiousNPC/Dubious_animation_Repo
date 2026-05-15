@@ -33,15 +33,28 @@ https://github.com/user-attachments/assets/2d9e0304-a0db-4eda-8b6b-18f137c12341
 
 **KEYS**   
 <ins>missdr:</ins> *stop/start*   
-<ins>missdl:</ins> *stop/start*,   
-<ins>missdfwd:</ins> *stop/start*,   
-<ins>missdbk:</ins> *stop/start*,   
-<ins>missdfwdr:</ins> *stop/start*,   
-<ins>missdfwdl:</ins> *stop/start*,   
-<ins>missdbkr:</ins> *stop/start*,   
-<ins>missdbkl:</ins> *stop/start*,   
+<ins>missdl:</ins> *stop/start*   
+<ins>missdfwd:</ins> *stop/start*   
+<ins>missdbk:</ins> *stop/start*   
+<ins>missdfwdr:</ins> *stop/start*   
+<ins>missdfwdl:</ins> *stop/start*   
+<ins>missdbkr:</ins> *stop/start*   
+<ins>missdbkl:</ins> *stop/start*   
+
 
 https://github.com/user-attachments/assets/b6237fde-258c-4f10-8c6a-d3bd946ecc2d
 
 
+# xhookshot:
+1st/3rd aim and firing arm-mounted grapple hook
+
+**KEYS**
+<ins>hookaim:</ins> *start/loop start/loop stop/stop*    
+<ins>hookgo:</ins> *start/loop start/loop stop/stop*   
+<ins>hookhang:</ins> *start/stop*   
+<ins>hookhangup:</ins> *start/loop start/loop stop/stop*   
+<ins>hookhangdwn:</ins> *start/loop start/loop stop/stop*   
+
+
+https://github.com/user-attachments/assets/30a1ad58-5618-4cbf-9bbd-6ae3cc076c67
 
