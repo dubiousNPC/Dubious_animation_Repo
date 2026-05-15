@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/2d9e0304-a0db-4eda-8b6b-18f137c12341
 
 
 # xmissdodge:   
-3rd Person animations for dodging missed attacks   
+3rd Person animations for dodging missed attacks, 8 directions   
 
 **KEYS**   
 <ins>missdr:</ins> *stop/start*   
@@ -43,6 +43,25 @@ https://github.com/user-attachments/assets/2d9e0304-a0db-4eda-8b6b-18f137c12341
 
 
 https://github.com/user-attachments/assets/b6237fde-258c-4f10-8c6a-d3bd946ecc2d
+
+# xsidestep1:   
+1st/3rd .25 second step-dodge animations, 8_directions     
+
+**KEYS**   
+<ins>dodger:</ins> *stop/start*   
+<ins>dodgel:</ins> *stop/start*   
+<ins>dodgefwd:</ins> *stop/start*   
+<ins>dodgebk:</ins> *stop/start*   
+<ins>dodgefwdr:</ins> *stop/start*   
+<ins>dodgefwdl:</ins> *stop/start*   
+<ins>dodgebkr:</ins> *stop/start*   
+<ins>dodgebkl:</ins> *stop/start*   
+
+
+
+https://github.com/user-attachments/assets/1df793ae-58ea-43d8-a399-4b51d1de8bce
+
+
 
 
 # xhookshot:   
