@@ -44,6 +44,13 @@ https://github.com/user-attachments/assets/2d9e0304-a0db-4eda-8b6b-18f137c12341
 
 https://github.com/user-attachments/assets/b6237fde-258c-4f10-8c6a-d3bd946ecc2d
 
+# xpotion:   
+1st/3rd 2-second potion drinking
+
+**KEYS**    
+<ins>potion:</ins> *stop/discard/start*     
+
+
 # xsidestep1:   
 1st/3rd .25 second step-dodge animations, 8_directions     
 
