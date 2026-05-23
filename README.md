@@ -18,6 +18,24 @@ https://github.com/user-attachments/assets/0ec10f00-5673-47ff-8b1d-cec8c3a360e0
 https://github.com/user-attachments/assets/2d9e0304-a0db-4eda-8b6b-18f137c12341
 
 
+# xdrinking:   
+standing around drinking
+
+**KEYS**    
+<ins>drink1:</ins> *stop/discard/start*   
+<ins>drink2idle:</ins> *stop/start*   
+<ins>drink2:</ins> *stop/start*   
+<ins>drink3idle:</ins> *stop/start*   
+<ins>drink3:</ins> *stop/start*   
+<ins>drink4idle:</ins> *stop/start*    
+<ins>drink4:</ins> *stop/start*    
+
+
+
+https://github.com/user-attachments/assets/3e0b0037-1cab-4682-8885-8e2b278e4321
+
+
+
 # xfollow:   
 1st/3rd 1-second beckon and wait gestures. left hand and torso
 
