@@ -18,6 +18,20 @@ https://github.com/user-attachments/assets/0ec10f00-5673-47ff-8b1d-cec8c3a360e0
 https://github.com/user-attachments/assets/2d9e0304-a0db-4eda-8b6b-18f137c12341
 
 
+# xfollow:   
+1st/3rd 1-second beckon and wait gestures. left hand and torso
+
+**KEYS**    
+<ins>followme:</ins> *stop/release/start*   
+<ins>wait:</ins> *stop/release/start*   
+
+
+
+
+https://github.com/user-attachments/assets/62a30484-8f8b-4ab3-8cdf-f34b4968769c
+
+
+
 # xknock:   
 1st/3rd door knocking for left or right hand   
 
