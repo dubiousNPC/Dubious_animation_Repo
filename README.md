@@ -4,6 +4,19 @@
 ## ANIMATIONS
 --------------
 
+# xbugmusk:   
+3rdP 3-second dousing animation. 2 variants    
+
+**KEYS**    
+<ins>bugmusk1:</ins> *stop/start*   
+<ins>bugmusk2:</ins> *stop/start*   
+
+
+
+https://github.com/user-attachments/assets/5d51b654-21e0-4b18-ac02-2ff003fe62b0
+
+
+
 # xdisarm:   
 1st/3rd 1-second disarmed reaction. 3 variants
 
@@ -34,6 +47,18 @@ standing around drinking
 
 https://github.com/user-attachments/assets/3e0b0037-1cab-4682-8885-8e2b278e4321
 
+# xeating:   
+3rd 3-second eating by hand or from a soup bowl. left hand and torso
+
+**KEYS**    
+<ins>eating1:</ins> *stop/release/start*   
+<ins>eating2:</ins> *stop/release/start*   
+
+
+
+https://github.com/user-attachments/assets/5ce6c540-a39a-49cb-834b-524d84fba504
+
+
 
 
 # xfollow:   
@@ -44,9 +69,22 @@ https://github.com/user-attachments/assets/3e0b0037-1cab-4682-8885-8e2b278e4321
 <ins>wait:</ins> *stop/release/start*   
 
 
-
-
 https://github.com/user-attachments/assets/62a30484-8f8b-4ab3-8cdf-f34b4968769c
+
+
+
+# xhookshot:   
+1st/3rd aim and firing arm-mounted grapple hook
+
+**KEYS**   
+<ins>hookaim:</ins> *start/loop start/loop stop/stop*    
+<ins>hookgo:</ins> *start/loop start/loop stop/stop*   
+<ins>hookhang:</ins> *start/stop*   
+<ins>hookhangup:</ins> *start/loop start/loop stop/stop*   
+<ins>hookhangdwn:</ins> *start/loop start/loop stop/stop*   
+
+
+https://github.com/user-attachments/assets/30a1ad58-5618-4cbf-9bbd-6ae3cc076c67
 
 
 
@@ -101,18 +139,30 @@ https://github.com/user-attachments/assets/b6237fde-258c-4f10-8c6a-d3bd946ecc2d
 https://github.com/user-attachments/assets/1df793ae-58ea-43d8-a399-4b51d1de8bce
 
 
-
-
-# xhookshot:   
-1st/3rd aim and firing arm-mounted grapple hook
+# xsearchtorch:   
+3rdP searching/scanning upper body only     
 
 **KEYS**   
-<ins>hookaim:</ins> *start/loop start/loop stop/stop*    
-<ins>hookgo:</ins> *start/loop start/loop stop/stop*   
-<ins>hookhang:</ins> *start/stop*   
-<ins>hookhangup:</ins> *start/loop start/loop stop/stop*   
-<ins>hookhangdwn:</ins> *start/loop start/loop stop/stop*   
+<ins>search1:</ins> *stop/start*   
+<ins>search2:</ins> *stop/start*   
+<ins>search3:</ins> *stop/start*    
 
 
-https://github.com/user-attachments/assets/30a1ad58-5618-4cbf-9bbd-6ae3cc076c67
+
+https://github.com/user-attachments/assets/76007f1c-026c-484d-a2f3-4e8387a2c18f
+
+
+
+
+# xthumbs:   
+3rdP 2 second thumbs up/thumbs down     
+
+**KEYS**   
+<ins>thumbs1:</ins> *stop/release/start*   
+<ins>thumbs2:</ins> *stop/release/start*  
+
+
+https://github.com/user-attachments/assets/77a64ada-4969-46ce-b500-eadb6255fce2
+
+
 
