@@ -6,6 +6,7 @@
 
 # xbugmusk:   
 3rdP 3-second dousing animation. 2 variants    
+<ins>Alternate files bugmuskROTbone:</ins> **experimental** weapon bone rotated 90 degrees
 
 **KEYS**    
 <ins>bugmusk1:</ins> *stop/start*   
