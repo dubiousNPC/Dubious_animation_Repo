@@ -49,7 +49,7 @@ standing around drinking
 https://github.com/user-attachments/assets/3e0b0037-1cab-4682-8885-8e2b278e4321
 
 # xeating:   
-3rd 3-second eating by hand or from a soup bowl. left hand and torso
+1st/3rd 3-second eating by hand or from a soup bowl. left hand and torso
 
 **KEYS**    
 <ins>eating1:</ins> *stop/release/start*   
@@ -88,6 +88,24 @@ https://github.com/user-attachments/assets/62a30484-8f8b-4ab3-8cdf-f34b4968769c
 https://github.com/user-attachments/assets/30a1ad58-5618-4cbf-9bbd-6ae3cc076c67
 
 
+# xinteracting:   
+3rdP 1-second object interaction animation. right handed. 4 variants    
+
+**KEYS**    
+<ins>loot1:</ins> *stop/attach/start*   
+<ins>loot2:</ins> *stop/attach/start*    
+<ins>loot1:</ins> *stop/discard/start*   
+<ins>loot2:</ins> *stop/discard/start*    
+
+
+https://github.com/user-attachments/assets/3b11e3ae-9739-4a0a-b7f7-91aa6d6fd1de
+
+
+
+https://github.com/user-attachments/assets/5079e1b6-bdea-4045-8743-b19e8d6c07a7
+
+
+
 
 # xknock:   
 1st/3rd door knocking for left or right hand   
@@ -122,6 +140,20 @@ https://github.com/user-attachments/assets/b6237fde-258c-4f10-8c6a-d3bd946ecc2d
 <ins>potion:</ins> *stop/discard/start*     
 
 
+
+# xsearchtorch:   
+3rdP searching/scanning upper body only     
+
+**KEYS**   
+<ins>search1:</ins> *stop/start*   
+<ins>search2:</ins> *stop/start*   
+<ins>search3:</ins> *stop/start*    
+
+
+
+https://github.com/user-attachments/assets/76007f1c-026c-484d-a2f3-4e8387a2c18f
+
+
 # xsidestep1:   
 1st/3rd .25 second step-dodge animations, 8_directions     
 
@@ -140,18 +172,21 @@ https://github.com/user-attachments/assets/b6237fde-258c-4f10-8c6a-d3bd946ecc2d
 https://github.com/user-attachments/assets/1df793ae-58ea-43d8-a399-4b51d1de8bce
 
 
-# xsearchtorch:   
-3rdP searching/scanning upper body only     
+# xsitting:   
+3rdP 8 sitting idles    
 
 **KEYS**   
-<ins>search1:</ins> *stop/start*   
-<ins>search2:</ins> *stop/start*   
-<ins>search3:</ins> *stop/start*    
+<ins>dbssit1:</ins> *stop/start*   
+<ins>dbssit2:</ins> *stop/start*   
+<ins>dbssit3:</ins> *stop/start*   
+<ins>dbssit4:</ins> *stop/start*   
+<ins>dbssit5:</ins> *stop/start*   
+<ins>dbssit6:</ins> *stop/start*   
+<ins>dbssit7:</ins> *stop/start*   
+<ins>dbssit8:</ins> *stop/start*     
 
 
-
-https://github.com/user-attachments/assets/76007f1c-026c-484d-a2f3-4e8387a2c18f
-
+https://github.com/user-attachments/assets/9d9c0aa9-b328-4109-b266-132f27c91b9c
 
 
 
