@@ -52,7 +52,8 @@ https://github.com/user-attachments/assets/3e0b0037-1cab-4682-8885-8e2b278e4321
 1st/3rd 3-second eating by hand or from a soup bowl. left hand and torso
 
 **KEYS**    
-<ins>eating1:</ins> *stop/release/start*   
+<ins>eatingr:</ins> *stop/release/start*   
+<ins>eatingl:</ins> *stop/release/start*   
 <ins>eating2:</ins> *stop/release/start*   
 
 
