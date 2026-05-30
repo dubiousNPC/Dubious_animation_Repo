@@ -141,6 +141,19 @@ https://github.com/user-attachments/assets/b6237fde-258c-4f10-8c6a-d3bd946ecc2d
 <ins>potion:</ins> *stop/discard/start*     
 
 
+# xprayer:   
+1st/3rd praying anims for looping idles
+
+**KEYS**   
+<ins>prayer1:</ins> *start/loop start/loop stop/stop*    
+<ins>prayer2:</ins> *start/loop start/loop stop/stop*   
+
+
+https://github.com/user-attachments/assets/51bc8bd8-cd60-4955-9ba3-4cf0a8e53a21
+
+
+
+
 
 # xsearchtorch:   
 3rdP searching/scanning upper body only     
