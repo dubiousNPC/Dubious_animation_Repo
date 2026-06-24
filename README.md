@@ -203,6 +203,28 @@ https://github.com/user-attachments/assets/1df793ae-58ea-43d8-a399-4b51d1de8bce
 https://github.com/user-attachments/assets/9d9c0aa9-b328-4109-b266-132f27c91b9c
 
 
+# xsmoking:   
+3rd 1-second pipe and cigar smoking
+
+**KEYS**    
+<ins>smoke1r:</ins> *stop/start*   
+<ins>smoke1l:</ins> *stop/start*   
+<ins>smokelight:</ins> *stop/attach/start*   
+<ins>smokash:</ins> *stop/start*   
+<ins>smoke2:</ins> *stop/start*   
+<ins>smoke3:</ins> *stop/start*   
+<ins>smokeflick:</ins> *stop/discard/start*   
+<ins>smoke1ridle:</ins> *stop/start*   
+<ins>smokepipe1:</ins> *stop/loop start/loop stop/start*   
+<ins>smokepipe2:</ins> *stop/start*   
+<ins>smoke5:</ins> *stop/discard/start*   
+
+https://github.com/user-attachments/assets/f17e8d77-6a0e-48e2-97fc-f7c2ca3a9ae8
+
+
+
+
+
 
 # xthumbs:   
 3rdP 2 second thumbs up/thumbs down     
