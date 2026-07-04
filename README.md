@@ -202,6 +202,33 @@ https://github.com/user-attachments/assets/1df793ae-58ea-43d8-a399-4b51d1de8bce
 
 https://github.com/user-attachments/assets/9d9c0aa9-b328-4109-b266-132f27c91b9c
 
+# xsitting2:   
+3rdP 8 sitting/resting idles with chair adjusting/transition anims   
+
+**KEYS**   
+<ins>chairmove1:</ins> *stop/start*   
+<ins>chairmove2:</ins> *stop/start*   
+<ins>rmanuv:</ins> *stop/start*     
+<ins>dbssit21:</ins> *stop/loop stop/loop stop/start*    
+<ins>dbssit22:</ins> *stop/loop stop/loop stop/start*     
+<ins>dbssit23:</ins> *stop/loop stop/loop stop/start*   
+<ins>dbssit24:</ins> *stop/loop stop/loop stop/start*    
+<ins>dbssit25:</ins> *stop/loop stop/loop stop/start*    
+
+
+
+https://github.com/user-attachments/assets/2479b14c-5bce-4456-bdd4-839cab95e6fe
+
+
+
+https://github.com/user-attachments/assets/93d5afcb-bce5-4aa0-b7ab-54922e1e7186
+
+
+
+https://github.com/user-attachments/assets/4c9b640c-a845-42de-810c-1f524c900c4f
+
+
+
 
 # xsmoking:   
 3rd 1-second pipe and cigar smoking
