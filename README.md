@@ -75,6 +75,34 @@ https://github.com/user-attachments/assets/62a30484-8f8b-4ab3-8cdf-f34b4968769c
 
 
 
+# xForceThrow:   
+3rd force choke/telekenesis
+
+**KEYS**   
+<ins>fchokeidle:</ins> *start/loop start/loop stop/stop*    
+<ins>fchokefly:</ins> *start/loop start/loop stop/stop*   
+<ins>fchokedrop:</ins> *start/loop start/loop stop/stop*   
+<ins>fchokeend:</ins> *start/stop*   
+<ins>fchoke1:</ins> *start/loop start/loop stop/stop*   
+<ins>fchoker:</ins> *start/stop*   
+<ins>fchokel:</ins> *start/stop*   
+<ins>fchokefwd:</ins> *start/stop*  
+<ins>fchoketwd:</ins> *start/stop*  
+
+
+
+https://github.com/user-attachments/assets/432f78b5-c623-4d6a-a358-2e8a467e558e
+
+
+
+
+
+https://github.com/user-attachments/assets/38022201-fed5-45e2-ad76-2ffe0c324654
+
+
+
+
+
 # xhookshot:   
 1st/3rd aim and firing arm-mounted grapple hook
 
