@@ -117,6 +117,22 @@ https://github.com/user-attachments/assets/38022201-fed5-45e2-ad76-2ffe0c324654
 https://github.com/user-attachments/assets/30a1ad58-5618-4cbf-9bbd-6ae3cc076c67
 
 
+# xIajutsu:   
+3rd iajutsu style pose and strike. not combat ready
+
+**KEYS**    
+<ins>iajutsuprep:</ins> *stop/start*   
+<ins>iajutsuslice:</ins> *stop/start*   
+<ins>iajutsucon:</ins> *stop/start*  
+<ins>iajutsusheathe:</ins> *stop/start*  
+
+
+
+https://github.com/user-attachments/assets/f4065894-bc7f-4780-8dc0-0266d9a933ec
+
+
+
+
 # xinteracting:   
 3rdP 1-second object interaction animation. right handed. 4 variants    
 
