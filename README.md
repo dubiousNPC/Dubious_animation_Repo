@@ -200,6 +200,33 @@ https://github.com/user-attachments/assets/51bc8bd8-cd60-4955-9ba3-4cf0a8e53a21
 
 
 
+
+# xRASitting1:   
+ 
+1st/3rd praying anims for looping idles
+
+**KEYS**   
+<ins>rasit1:</ins> *start/stop*    
+<ins>rasit1:</ins> *start/stop*    
+<ins>rasit1:</ins> *start/stop*    
+<ins>rasit1:</ins> *start/stop*    
+<ins>rasit1:</ins> *start/stop*    
+<ins>rasit1:</ins> *start/stop*    
+<ins>rasit1:</ins> *start/stop*    
+<ins>rasit1:</ins> *start/stop*    
+<ins>rasitf:</ins> *start/stop*   
+<ins>rasitf1:</ins> *start/stop*   
+<ins>rasitf2:</ins> *start/stop*   
+
+
+https://github.com/user-attachments/assets/969b9e59-13c6-4a67-8cb3-90319ce378fa
+
+
+https://github.com/user-attachments/assets/2babde9f-567e-4730-9cb1-1ea1d515bc55
+
+
+
+
 # xsearchtorch:   
 3rdP searching/scanning upper body only     
 
