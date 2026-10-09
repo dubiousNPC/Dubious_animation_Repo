@@ -62,6 +62,23 @@ https://github.com/user-attachments/assets/5ce6c540-a39a-49cb-834b-524d84fba504
 
 
 
+# xEmotes1:
+
+3rd person emotive gestures
+
+
+
+https://github.com/user-attachments/assets/903afbf8-92cb-4ad0-83e3-02e00bf8e17c
+
+
+
+https://github.com/user-attachments/assets/c3f545ef-73ba-435c-9542-faf0212f4705
+
+
+
+
+
+
 
 # xfollow:   
 1st/3rd 1-second beckon and wait gestures. left hand and torso
@@ -298,6 +315,15 @@ https://github.com/user-attachments/assets/93d5afcb-bce5-4aa0-b7ab-54922e1e7186
 
 
 https://github.com/user-attachments/assets/4c9b640c-a845-42de-810c-1f524c900c4f
+
+
+
+# xsleept
+
+
+
+https://github.com/user-attachments/assets/f55221a9-9736-4a5f-bfe1-6a6270951ea5
+
 
 
 
