@@ -15,7 +15,7 @@ https://openmw.readthedocs.io/en/latest/reference/lua-scripting/openmw_animation
  
   
   
-**A bog-standard not on animation**
+**A bog-standard note on animation**
  
 I am not skilled in coding but here is very basic example of animating in OpenMW:  
   
