@@ -33,10 +33,9 @@ so you can call to the groupname "petit" and play a loop from "start" to "stop" 
 for example:
 
 ----------------------------------------------------------------------
-   
-   local function onScribPetted()   
+
     I.AnimationController.playBlendedAnimation(
-        "potionl",
+        "petit",
         {
             startKey = 'start',
             stopKey = 'stop',
