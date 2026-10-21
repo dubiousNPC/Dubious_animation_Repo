@@ -1,5 +1,7 @@
+
+--------------------------------------------------
 ### **Dubious animation Repo**
-------------------------------
+--------------------------------------------------
 
 
  Free open source library of hand made animations made for Morrowind with the OpenMW engine in mind.
@@ -7,7 +9,9 @@
  list is not currently up to date with all animations added, as it is still in a state up updating
  Think of it as an open Beta, there is a good chance that everything here will get another polish pass at some point
  
- everything here is available for use under CCO license. use, share and enjoy. Be Excellent to each other
+ **everything here is available for use under CCO license. use, share and enjoy.**
+ ### Be Excellent to each other
+    
   
 **proper documentation can be found here**
 --------------------------------------------------
