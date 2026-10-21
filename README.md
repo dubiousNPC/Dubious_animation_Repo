@@ -10,11 +10,12 @@
  everything here is available for use under CCO license. use, share and enjoy. Be Excellent to each other
   
 **proper documentation can be found here**
+--------------------------------------------------
 https://openmw.readthedocs.io/en/latest/reference/lua-scripting/openmw_animation.html
-
- 
-  
-  
+--------------------------------------------------
+    
+     
+      
 **A bog-standard note on animation**
  
 I am not skilled in coding but here is very basic example of animating in OpenMW:  
