@@ -1,6 +1,87 @@
 ### **Dubious animation Repo**
 ------------------------------
 
+
+ Free open source library of hand made animations made for Morrowind with the OpenMW engine in mind.
+ I make animations in blender for fun and this is where i keep them when they are mostly finished,
+ list is not currently up to date with all animations added, as it is still in a state up updating
+ Think of it as an open Beta, there is a good chance that everything here will get another polish pass at some point
+ 
+ everything here is available for use under CCO license. use, share and enjoy. Be Excellent to each other
+  
+**proper documentation can be found here**
+https://openmw.readthedocs.io/en/latest/reference/lua-scripting/openmw_animation.html
+
+ 
+  
+  
+**A bog-standard not on animation**
+ 
+I am not skilled in coding but here is very basic example of animating in OpenMW:  
+  
+animations are split up by Text Keys in the KeyFrame data. in the .kf files like [xpetit.kf], text keys are listed in "NiTextKeyExtraData", essentially these are markers in the animation that you can call with your script.
+
+so e.g. you will see "petit: start" and "petit: stop"
+
+so you can call to the groupname "petit" and play a loop from "start" to "stop" and it will loop the animation between those two points.
+
+for example:
+
+----------------------------------------------------------------------
+local I = require("openmw.interfaces")
+local anim = require("openmw.animation")
+
+local function onScribPetted()
+    I.AnimationController.playBlendedAnimation(
+        "petit",
+        {
+            startKey = 'start',
+            stopKey = 'stop',
+            priority = {
+                [anim.BONE_GROUP.LeftArm] = anim.PRIORITY.Scripted,
+                [anim.BONE_GROUP.Torso] = anim.PRIORITY.Scripted,
+            },
+            autoDisable = true,
+            blendMask = anim.BLEND_MASK.LeftArm + anim.BLEND_MASK.Torso + anim.BLEND_MASK.RightArm +
+            anim.BLEND_MASK.LowerBody,
+            speed = 1
+        }
+    )
+end
+
+return {
+    eventHandlers = {
+        PetTheScribs_ScribPetted = onScribPetted,
+    }
+}
+----------------------------------------------------------------------
+check out the excellent mod that allows for such glorious action
+https://www.nexusmods.com/morrowind/mods/58294
+  
+  
+   
+In another example using "iajutsheathe2" as a weapon attack you would then need to attach the weapon to the Weapon Bone and use the Text Keys for "discard" that can be called to sheathe the weapon. could maybe do something like this:
+
+----------------------------------------------------------------------
+        anim.addVfx(self, 'meshes/w/w_n_katana', {
+            loop = true,
+            vfxId = "iajutsublade",
+            boneName = "Weapon Bone",
+        })    
+ 
+        I.AnimationController.addTextKeyHandler('sheathe', function(groupname, key)
+            if key == 'discard' then
+                anim.removeVfx(self, iajutsublade)
+            end
+        end)
+end
+----------------------------------------------------------------------
+so then it would autmatically pull a katana out of nowhere and sheathe it again.
+like i said i'm no coder. credit to MrArrean on OpenMW Discord for showing me this simple method.
+there's lots of ways to approach it.
+
+
+
 ## ANIMATIONS
 --------------
 
@@ -360,6 +441,63 @@ https://github.com/user-attachments/assets/f17e8d77-6a0e-48e2-97fc-f7c2ca3a9ae8
 
 
 https://github.com/user-attachments/assets/77a64ada-4969-46ce-b500-eadb6255fce2
+
+
+
+
+-----------------------------------------
+## SOME MODS CONTAINING THESE ANIMATIONS
+------------------------------------------
+Smoking NPCs (OpenMW)  https://www.nexusmods.com/morrowind/mods/60477
+
+Daily Chores   https://www.nexusmods.com/morrowind/mods/60161
+  
+NPC Personality - (Dynamic gestures - Faction Reactions)  https://www.nexusmods.com/morrowind/mods/60121
+ 
+N'garde   https://www.nexusmods.com/morrowind/mods/58658
+
+Can't touch this  https://www.nexusmods.com/morrowind/mods/59155
+
+Pet the Scribs   https://www.nexusmods.com/morrowind/mods/58294
+
+Follower Commands   https://www.nexusmods.com/morrowind/mods/58818
+
+Devilish Knocking   https://www.nexusmods.com/morrowind/mods/59672
+  
+Evening Star - Faiths of Morrowind   https://www.nexusmods.com/morrowind/mods/59173?tab=description
+  
+Interactions Animated  https://www.nexusmods.com/morrowind/mods/59117
+   
+Consuming Animated   https://www.nexusmods.com/morrowind/mods/59069
+   
+Eating Habits    https://www.nexusmods.com/morrowind/mods/59350
+   
+Lua Bounty Hunter   https://www.nexusmods.com/morrowind/mods/58850
+   
+Lua Beast Tamer   https://www.nexusmods.com/morrowind/mods/59054
+   
+Praying Animated   https://www.nexusmods.com/morrowind/mods/59182
+   
+Disarm 'Em All   https://www.nexusmods.com/morrowind/mods/58430
+    
+Vaults Restricted   https://www.nexusmods.com/morrowind/mods/58405
+
+Iaijutsu    https://www.nexusmods.com/morrowind/mods/59717
+
+
+
+If you appreciate my work fell free to leave a donation with ko-fi   https://ko-fi.com/dubiousnpc
+
+:D
+
+
+
+
+
+
+
+
+
 
 
 
