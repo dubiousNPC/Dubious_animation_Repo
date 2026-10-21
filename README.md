@@ -33,32 +33,25 @@ so you can call to the groupname "petit" and play a loop from "start" to "stop" 
 for example:
 
 ----------------------------------------------------------------------
-local I = require("openmw.interfaces")
-local anim = require("openmw.animation")
-
-local function onScribPetted()
+   
+   local function onScribPetted()   
     I.AnimationController.playBlendedAnimation(
-        "petit",
+        "potionl",
         {
             startKey = 'start',
             stopKey = 'stop',
             priority = {
-                [anim.BONE_GROUP.LeftArm] = anim.PRIORITY.Scripted,
+                [anim.BONE_GROUP.RightArm] = anim.PRIORITY.Scripted,
+		[anim.BONE_GROUP.LeftArm] = anim.PRIORITY.Scripted,
                 [anim.BONE_GROUP.Torso] = anim.PRIORITY.Scripted,
+                [anim.BONE_GROUP.LowerBody] = anim.PRIORITY.Scripted,
             },
-            autoDisable = true,
+            autoDisable = false,
             blendMask = anim.BLEND_MASK.LeftArm + anim.BLEND_MASK.Torso + anim.BLEND_MASK.RightArm +
             anim.BLEND_MASK.LowerBody,
             speed = 1
         }
     )
-end
-
-return {
-    eventHandlers = {
-        PetTheScribs_ScribPetted = onScribPetted,
-    }
-}
 ----------------------------------------------------------------------
 check out the excellent mod that allows for such glorious action
 https://www.nexusmods.com/morrowind/mods/58294
